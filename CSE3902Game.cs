@@ -2,14 +2,14 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace CSE3902ProjectTemplate;
+namespace CSE3902Project;
 
-public class Game1 : Game
+public class CSE3902Game : Game
 {
     private GraphicsDeviceManager _graphics;
     private SpriteBatch _spriteBatch;
 
-    public Game1()
+    public CSE3902Game()
     {
         _graphics = new GraphicsDeviceManager(this);
         Content.RootDirectory = "Content";
