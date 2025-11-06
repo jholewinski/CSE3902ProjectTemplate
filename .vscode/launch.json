@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C#: CSE3902Project Debug",
+            "name": "C#: CSE3902Game Debug",
             "type": "dotnet",
             "request": "launch",
-            "projectPath": "${workspaceFolder}/CSE3902Project.csproj"
+            "projectPath": "${workspaceFolder}/CSE3902Game/CSE3902Game.csproj"
         }
     ]
 }
