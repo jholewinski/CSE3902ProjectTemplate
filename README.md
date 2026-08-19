@@ -18,7 +18,7 @@ this project into your own GitHub repository. Easy as that!
 
 ### MonoGame Package Version
 
-This template is locked to MonoGame 3.8.4.1. All teams will be using this
+This template is locked to MonoGame 3.8.5.1. All teams will be using this
 known-good version of MonoGame to prevent issues and inconsistencies related to
 the MonoGame version.
 
